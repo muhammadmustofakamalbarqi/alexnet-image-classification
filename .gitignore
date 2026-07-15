@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+
+# Model & dataset (terlalu besar untuk git)
+*.pth
+*.pt
+data/
+MNIST/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
